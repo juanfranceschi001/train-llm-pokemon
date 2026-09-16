@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project data & artifacts
+data/*
+!data/.gitkeep
+!data/pokemon_fetch.py
+checkpoints/*
+!checkpoints/.gitkeep
+
+# macOS
+.DS_Store
+
+# Stray dirs created if a notebook is run with cwd=notebooks/ (JupyterLab default)
+notebooks/data/
+notebooks/assets/
+notebooks/checkpoints/

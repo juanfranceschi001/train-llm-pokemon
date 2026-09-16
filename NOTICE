@@ -1,0 +1,11 @@
+train-llm-pokemon
+Copyright 2026 Juan Franceschi
+
+This project's course structure, notebook progression, and the model
+architecture in model.py are adapted from orbek/train-llm
+(https://github.com/orbek/train-llm), licensed under the Apache License,
+Version 2.0. See the LICENSE file for the full license text.
+
+All course text, explanations, quizzes, and the Pokemon training corpus
+(fetched at runtime from PokeAPI, https://pokeapi.co) are original to this
+project.
